@@ -1,4 +1,4 @@
-### Hello, world. 🚀
+# Hello, world. 🚀
 I'm a recent computer science grad from UC Davis, and am currently based in the SF Bay Area. Through side projects, coursework, and involvements, I’ve explored domains well beyond coding. I really enjoy UX design and business/entrepreneurship, as it’s helped me understand a software product end-to-end. For now, I’m especially interested in pursuing front-end development, as it blends my coding and design interests. As I start my career, I hope to get involved with an even greater variety of fields in and out of computer science.
 
 ## Past Work to Highlight ✨

@@ -10,4 +10,4 @@ I'm a recent computer science grad from UC Davis, and am currently based in the 
 
 ## Some Smaller Projects 🌱
 - **[Interview Ace](https://github.com/edward-chew/interview-ace),** a GPT-4 powered interview preparation tool.
-- **[Personal Website](https://edwardchew.vercel.app/),** a showcase of my past projects and experiences.
+- **[Personal Website](https://www.edwardchew.me/),** a showcase of my past projects and experiences.
